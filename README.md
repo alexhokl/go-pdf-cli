@@ -1,4 +1,4 @@
-A CLI tool to manage PDF files.
+A CLI tool to manage PDF files. [![Build Status](https://travis-ci.org/alexhokl/go-pdf-cli.svg?branch=master)](https://travis-ci.org/alexhokl/go-pdf-cli)
 
 ##### To install via Go
 
